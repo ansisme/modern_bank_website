@@ -1,6 +1,6 @@
 A modern Bank or Business website.
-The website is created using Tailwind CSS, Vite with React JS,
-It is fully responsive on any mobile/desktop device. Can be used as a template for professional business websites
+The website is created using Tailwind CSS, Vite with React JS.
+Fully responsive to any device. Can be used as a template for professional business websites.
 Here are a few sceenshots:
 
 
