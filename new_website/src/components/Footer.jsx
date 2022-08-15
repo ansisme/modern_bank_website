@@ -9,7 +9,7 @@ const Footer = () =>
       <div className="flex-1 flex flex-col justify-start mr-10">
       <img src={logo} alt="logo" className="w-[266px] h-[72px] object-contain"/>
       <p className= {` ${styles.paragraph} mt-5 max-w-[310px]`}>
-      njhjdchdhdcds dcus vvovdjvfvkvf vjfvfvj njhjdchdhdcds dcus vvovdjvfvkvf vjfvfvj njhjdchdhdcds dcus vvovdjvfvkvf vjfvfvj
+      sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text sample text 
       </p>
       </div>
     </div>

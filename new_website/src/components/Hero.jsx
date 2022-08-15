@@ -28,7 +28,7 @@ const Hero = () => {
         </div>
       </div>
        <h1 className = {`font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full`}>
-          Op Website
+          Modern Website
        </h1>
        <p className={`font-poppins ${styles.paragraph} max-w-[470px] mt-5`}>
        Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. 
